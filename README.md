@@ -12,7 +12,7 @@ Through this project, I will model Netflix data to understand what’s best for 
 From the graph above I can conclude that the majority of content on Netflix is categorized as “TV-MA.” This means that most of the content available on Netflix is intended for viewing by mature and adult audiences.
 
 <b>Looking at the top 5 successful directors on this platform:</b>
-<img src="Files/top 5 successful directors on this platform.png">
+<img src="Files/ top 5 successful directors on this platform.png">
 From the above graph I can conclude the top 5 directors on this platform are:
 <il>Raul Campos</il>
 <il>Jan Suter</il>
