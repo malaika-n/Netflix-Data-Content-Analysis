@@ -30,7 +30,7 @@ From the above graph I can conclude the top 5 actors on this platform are:
 <il>Boman Irani</il>
 
 <b>Analyzing the trend of production over the years on Netflix:</b>
-<img src="Files/ the trend of production over the years on Netflix.png">
+<img src="Files/the trend of production over the years on Netflix.png">
 The above line graph shows that there has been a decline in the production of the content for both movies and other shows since 2018.
 
 <b>Analyzing the sentiment of content on Netflix:</b>
