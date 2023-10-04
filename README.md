@@ -24,11 +24,11 @@ From the above graph I can conclude the top 5 directors on this platform are:
 <b>Looking at the top 5 successful actors on this platform:</b>
 <img src="Files/top 5 successful actors on this platform.png">
 From the above graph I can conclude the top 5 actors on this platform are:
-<il>Anupam Kher</il>
-<il>Om Puri</il>
-<il>Shah Rukh Khan</il>
-<il>Takahira Sakurai</il>
-<il>Boman Irani</il>
+<li>Anupam Kher</li>
+<li>Om Puri</li>
+<li>Shah Rukh Khan</li>
+<li>Takahira Sakurai</li>
+<li>Boman Irani</li>
 
 <b>Analyzing the trend of production over the years on Netflix:</b>
 <img src="Files/the trend of production over the years on Netflix.png">
