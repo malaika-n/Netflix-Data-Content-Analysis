@@ -1,11 +1,12 @@
 # Netflix Data Sentiment Analysis
 
 Through this project, I will model Netflix data to understand what’s best for their business. From the data I plan on analyzing and understanding:
-
-<il>What content is available</il>
-<il>The similarities between the content</il>
-<il>The network between actors and directors</il>
-<il>What exactly Netflix is focusing on and sentiment analysis of content available on Netflix.</il>
+<ol>
+<li>What content is available</li>
+<li>The similarities between the content</li>
+<li>The network between actors and directors</li>
+<li>What exactly Netflix is focusing on and sentiment analysis of content available on Netflix.</li>
+</ol>
 
 <b>To begin the task of analyzing Netflix data, I’ll start by looking at the distribution of content ratings on Netflix:</b>
 <img src="Files/distribution of content.png">
@@ -14,11 +15,11 @@ From the graph above I can conclude that the majority of content on Netflix is c
 <b>Looking at the top 5 successful directors on this platform:</b>
 <img src="Files/ top 5 successful directors on this platform.png">
 From the above graph I can conclude the top 5 directors on this platform are:
-<il>Raul Campos</il>
-<il>Jan Suter</il>
-<il>Jay Karas</il>
-<il>Marcus Raboy</il>
-<il>Jay Chapman</il>
+<li>Raul Campos</li>
+<li>Jan Suter</li>
+<li>Jay Karas</li>
+<li>Marcus Raboy</li>
+<li>Jay Chapman</li>
 
 <b>Looking at the top 5 successful actors on this platform:</b>
 <img src="Files/top 5 successful actors on this platform.png">
